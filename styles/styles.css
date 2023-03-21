@@ -12,6 +12,7 @@ nav{
 }
 
 nav a{
+    text-align: center;
     color:#064789;
     text-decoration: none;
     padding:25px 50px;
