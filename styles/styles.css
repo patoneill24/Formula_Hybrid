@@ -15,7 +15,7 @@ nav a{
     text-align: center;
     color:#064789;
     text-decoration: none;
-    padding:25px 50px;
+    padding:25px 20px;
     font-size: 1.5em
 }
 
@@ -78,7 +78,7 @@ nav a:hover{
 footer{
     background-color:whitesmoke;
     color:#00b4d8;
-    padding:250px 20px;
+    padding:25px 20px;
     margin-top: 200px;
     display:flex;
     justify-content: space-around;
