@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Luckiest+Guy&family=Permanent+Marker&family=Roboto:wght@300&display=swap');
 
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
 nav{
     display: flex;
     justify-content: space-around;
@@ -36,6 +41,11 @@ nav a:hover{
     grid-column:2/3;
     grid-row:1/2;
     margin:100px;
+}
+
+#hero-msg h1{
+    text-align: center;
+    color:#3FD2C7;
 }
 
 #hero-box{
