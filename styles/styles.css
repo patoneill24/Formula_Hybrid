@@ -28,6 +28,14 @@ nav a:hover{
     color: indigo;
 }
 
+nav, footer {
+    flex-direction: column;
+}
+nav a {
+    display: block;
+    padding: 15px;
+}
+
 #hero-img{
     width:100%;
 }
