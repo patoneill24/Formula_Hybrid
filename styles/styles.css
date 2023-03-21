@@ -15,6 +15,7 @@ nav a{
     color:#064789;
     text-decoration: none;
     padding:35px;
+    display: block;
 }
 
 header {
@@ -29,11 +30,7 @@ nav a:hover{
 }
 
 nav, footer {
-    flex-direction: column;
-}
-nav a {
-    display: block;
-    padding: 15px;
+    flex-direction: row;
 }
 
 #hero-img{
