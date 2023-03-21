@@ -12,6 +12,17 @@ nav a{
     padding:35px;
 }
 
+header {
+    background-color: rgba(196, 223, 224, 0.76);
+    display: grid;
+    grid-template-columns:150px auto;
+}
+
+nav a:hover{
+    background-color:white;
+    color: indigo;
+}
+
 #hero-img{
     width:100%;
 }
