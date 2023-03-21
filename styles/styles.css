@@ -20,8 +20,6 @@ nav a{
 
 header {
     background-color: rgba(196, 223, 224, 0.76);
-    display: grid;
-    grid-template-columns:150px auto;
 }
 
 nav a:hover{
