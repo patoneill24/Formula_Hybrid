@@ -16,7 +16,7 @@ nav a{
     color:#064789;
     text-decoration: none;
     padding:35px;
-    font-size: 50px
+    font-size: 2em
 }
 
 header {
@@ -30,9 +30,6 @@ nav a:hover{
     color: indigo;
 }
 
-nav, footer {
-    flex-direction: row;
-}
 
 #hero-img{
     width:100%;
@@ -52,6 +49,8 @@ nav, footer {
 #hero-msg h1{
     text-align: center;
     color:#3FD2C7;
+    font-family: "Permanent Marker","Lobster","Luckiest Guy";
+    font-size:2em;
 }
 
 #hero-box{
@@ -61,9 +60,7 @@ nav, footer {
 }
 
 .home-title{
-    font-size:2em;
     color:#064789;
-    font-family: "Permanent Marker","Lobster","Luckiest Guy";
     margin-bottom: 10px;
 }
 
