@@ -59,6 +59,17 @@ nav a:hover{
     z-index:-1;
 }
 
+#logo_link{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+
+.logo{
+    width:80px;
+}
+
+
 .home-title{
     color:#064789;
     margin-bottom: 10px;
