@@ -8,6 +8,7 @@
 nav{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 nav a{
@@ -15,7 +16,7 @@ nav a{
     color:#064789;
     text-decoration: none;
     padding:35px;
-    display: block;
+    font-size: 50px
 }
 
 header {
