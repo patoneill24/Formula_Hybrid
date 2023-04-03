@@ -82,3 +82,10 @@ footer{
     align-items: center;
 }
 
+.main_text h1{
+    font-family: "Roboto", "Lobster", "Luckiest Guy";
+}
+
+.main_text p{
+    font-family: "Roboto", "Lobster", "Luckiest Guy";
+}
