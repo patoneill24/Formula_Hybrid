@@ -94,7 +94,8 @@ footer{
 
 #about_heading{
     font-family: "Roboto", "Lobster", "Luckiest Guy";
-    font-size: 3em;
+    font-size: 4em;
+    align-items: center;
 }
 
 .about_text p{
