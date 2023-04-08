@@ -84,8 +84,25 @@ footer{
 
 .main_text h1{
     font-family: "Roboto", "Lobster", "Luckiest Guy";
+    font-size: 2m;
 }
 
 .main_text p{
     font-family: "Roboto", "Lobster", "Luckiest Guy";
+    font-size: 2em;
+}
+
+#about_heading{
+    font-family: "Roboto", "Lobster", "Luckiest Guy";
+    font-size:2em;
+}
+
+.about_text p{
+    font-family: "Roboto", "Lobster", "Luckiest Guy";
+    font-size: 2em;
+}
+
+.about_text h2{
+    font-family: "Roboto", "Lobster", "Luckiest Guy";
+    font-size: 2em;    
 }
