@@ -107,3 +107,7 @@ footer{
     font-family: "Roboto", "Lobster", "Luckiest Guy";
     font-size: 2em;    
 }
+
+.team_image{
+    width : 100%;
+}
