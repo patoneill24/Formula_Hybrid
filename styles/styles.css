@@ -83,8 +83,10 @@ footer{
 }
 
 .main_text h1{
-    font-family: "Roboto", "Lobster", "Luckiest Guy";
-    font-size: 2m;
+    text-align: center;
+    color:#3FD2C7;
+    font-family: "Permanent Marker","Lobster","Luckiest Guy";
+    font-size:2em;
 }
 
 .main_text p{
@@ -249,6 +251,28 @@ footer{
     grid-row: 7/8;
     width: 50px;
     height:125px;
+}
+
+#sponsers-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#sponsers-header{
+    text-align: center;
+    color:#3FD2C7;
+    font-family: "Permanent Marker","Lobster","Luckiest Guy";
+    font-size:2em;
+}
+
+#ford-image{
+    grid-column:1/2;
+    width:auto;
+}
+
+#car-sim-image{
+    grid-column: 1/2;
+    width:auto;
 }
 
 
