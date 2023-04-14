@@ -95,9 +95,10 @@ footer{
 }
 
 #about_heading{
-    font-family: "Roboto", "Lobster", "Luckiest Guy";
-    font-size: 4em;
     text-align: center;
+    color:#3FD2C7;
+    font-family: "Permanent Marker","Lobster","Luckiest Guy";
+    font-size:2em;
 }
 
 .about_text p{
