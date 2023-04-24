@@ -112,7 +112,9 @@ footer{
 }
 
 .team_image{
-    width : 100%;
+    width : 300px;
+    height: 150px;
+
 }
 
 #home-grid{
